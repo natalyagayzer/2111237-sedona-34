@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Наталья Гайзер](https://up.htmlacademy.ru/htmlcss/34/user/2111237).
-* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
+* Наставник: [Антон Попов](https://up.htmlacademy.ru/htmlcss/34/user/78239).
 
 ---
 
